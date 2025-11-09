@@ -128,3 +128,14 @@ compile_commands.json
 CTestTestfile.cmake
 
 
+bin/
+build/
+cmake-build-/
+_build/
+build-/out/
+CMakeLists.txt.userCMakeCache.txtCMakeFiles/CMakeScripts/cmake_install.cmakeinstall_manifest.txtcompile_commands.jsonCTestTestfile.cmake
+CPackConfig.cmakeCPackSourceConfig.cmake*.tar.gz*.tar.bz2*.tar.xz*.deb*.rpm*.zip*.dmg
+Testing/Testing/Temporary/
+Makefile*.ninjabuild.ninja.ninja_log.ninja_deps*.dir/
+CMakeUserPresets.json.userCMakePresets.json.user
+.directory*.cmakebackup*.cmake~*.tmp
